@@ -1,3 +1,7 @@
+# cloned version of damionjunk.nlp
+
+Converted to use boot instead of leiningen.
+
 # damionjunk.nlp
 
 This library is a launching point for playing around with the [Stanford Core NLP](http://nlp.stanford.edu/software/corenlp.shtml) package in Clojure.
